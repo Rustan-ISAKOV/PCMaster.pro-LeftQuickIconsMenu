@@ -1,0 +1,16 @@
+<!-- BEGIN OF site header Menu -->
+		<header class="header-top">
+<!--		<header class="header-top material">-->
+			<div class="logo">
+				<a href="http://www.pcmaster.pro/#home">
+					<img src="./www.PCMaster.pro - Профессиональный ремонт компьютеров и ноутбуков_files/Logo.png" tppabs="img/Logo.png" alt="Logo Home">
+				</a>
+			</div>
+            <div class="menu clearfix">
+ 				<a href="http://www.pcmaster.pro/#home"><strong>PC</strong>Master.pro </a>
+                <!--<a href="#register">О НАС</a>
+				<a href="#about-us">УСЛУГИ</a> 
+                <a href="#contact">КОНТАКТЫ</a>		-->		
+            </div>
+		</header>
+<!-- END OF site header Menu-->
